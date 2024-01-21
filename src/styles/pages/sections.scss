@@ -1,0 +1,35 @@
+.section_cadastro {
+    form {
+        .div_input {
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            margin: auto;
+        }
+        .div_button {
+            width: 50%;
+            margin: 1em auto;
+            display: flex;
+            justify-content: center;
+        }
+    }
+    h1 {
+        text-align: center;
+    }
+}
+
+.home {
+    table {
+        border-collapse: collapse;
+
+        td,th {
+            border: 1px solid black;
+            padding: .3em;
+        }
+    }
+    .ordem_visita {
+        margin-top: 1em;
+        display: grid;
+        gap: 1em 0;
+    }
+}

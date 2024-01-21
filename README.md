@@ -1,0 +1,1 @@
+- Use o npm install ou yarn para instalar os pacotes que já estão no projeto
